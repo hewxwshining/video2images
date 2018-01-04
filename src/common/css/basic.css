@@ -1,0 +1,13 @@
+html,body {
+  font-family: "SF Pro SC", "HanHei SC", "SF Pro Text", "Myriad Set Pro", "PingFang SC", "Helvetica Neue", Helvetica, Arial, sans-serif, '微软雅黑', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f8f8f8;
+  color: #6f6f6f;
+  font-size: 14px;
+}
+.no-wrap {
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
